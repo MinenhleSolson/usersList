@@ -2,7 +2,7 @@
 
 <br>
 
-## Istalling on localhost
+## Installing on localhost.
 
 * **Step 1**
 Download the zip file from github
