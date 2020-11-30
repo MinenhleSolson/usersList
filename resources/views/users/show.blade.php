@@ -35,7 +35,7 @@
         <h5 class="card-title">Bio</h5>
       <p class="card-text">{{$post->bio}} </p> 
 
-      <a href="/users" class="btn btn-secondary">Go back</a>
+      <a href="/users/create" class="btn btn-secondary">Go back</a>
       <a href="/users/{{$post->id}}/edit" class="btn btn-primary">Edit</a>
     </div>
   </div>
