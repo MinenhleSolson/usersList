@@ -9,7 +9,7 @@ Download the zip file from github
 <img src="./ReadMeImages/no1.png" alt="image" />
 
 * **Step 2.0**
-Extract the zipped file and open the terminal. In the terminal direct to the extracted folder
+Extract the zipped file and open the terminal. In the terminal direct to the extracted folder 
 <img src="./ReadMeImages/no2.png" alt="image" />
 
 * **Step 3**
